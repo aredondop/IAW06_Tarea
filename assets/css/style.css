@@ -1,0 +1,11 @@
+.row{
+  margin: 5px 0 10px;
+}
+p{ margin: 2px 0; }
+.justify-text{
+  text-align:justify;
+}
+.progress-bar{
+  color:black;
+  margin: 2px 0;
+}
